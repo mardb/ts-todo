@@ -1,1 +1,1 @@
-# ts-todo
+# typescript-todo
